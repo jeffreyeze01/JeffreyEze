@@ -1,6 +1,6 @@
 # Hi there, I'm Jeffrey Eze! 👋
 
-I'm a Data Analyst focused on turning complex, unstructured datasets into clear, actionable business insights that drive revenue and operational efficiency. 
+I'm a Data Analyst focused on turning complex, unstructured datasets into clear, actionable business insights that drive revenue and  operational efficiency. 
 
 ---
 
